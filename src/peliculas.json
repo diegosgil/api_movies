@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "categoria": "terror",
+        "titulo": "Alientes",
+        "director" : "James",
+        "calificacion": "4.8"
+    },
+    {
+        "id": "2",
+        "categoria": "comedia",
+        "titulo": "Son como niños",
+        "director" : "Charlie",
+        "calificacion": "5"
+    },
+    {
+        "id": "3",
+        "categoria": "terror",
+        "titulo": "Scary movie",
+        "director" : "Xavier",
+        "calificacion": "4"
+    }
+]
